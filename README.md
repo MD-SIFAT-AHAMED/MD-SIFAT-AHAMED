@@ -1,5 +1,5 @@
 <div align="center">
-<img height="100%" src='https://i.ibb.co/5gRcbdkk/Screenshot-2025-06-25-143641.png' />  
+<img height="100%" width="100%" src='https://i.ibb.co/5gRcbdkk/Screenshot-2025-06-25-143641.png' />  
 <div/>
 
 <h1 align="center">Hi,I'm Md Sifat Ahamed👋</h1>
@@ -46,7 +46,10 @@ I specialize in:
 <p>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AC"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AC%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Amdsifat+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?  logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3Amdsifat+language%3AJavaScript">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+</a>
+
 </p>
 
 ### Frameworks and libraries
