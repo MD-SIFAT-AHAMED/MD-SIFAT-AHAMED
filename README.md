@@ -13,7 +13,9 @@
       <img src="https://i.ibb.co/fGFBfbTP/sifat-ahamed2.jpg" alt="Sifat Ahamed" width="150" style="border-radius: 50%;" />
     </td>
     <td>
-      <p>I’m a dedicated MERN Stack Developer passionate about building modern web applications that are fast, responsive, and scalable. I specialize in writing clean, maintainable code, crafting seamless user experiences, and building secure, efficient backend systems. With a strong understanding of frontend technologies, I aim to deliver full-stack solutions that solve real-world problems and add value to businesses. I continuously learn and grow to stay ahead in tech.</p>
+      <p>
+        I’m a dedicated MERN Stack Developer passionate about building modern web applications that are fast, responsive, and scalable. I specialize in writing clean, maintainable               code, crafting seamless user experiences, and building secure, efficient backend systems. With a strong understanding of frontend technologies, I aim to deliver full-stack               solutions that solve real-world problems and add value to businesses. I continuously learn and grow to stay ahead in tech.
+      </p>
     </td>
   </tr>
 </table>
@@ -42,9 +44,9 @@ I specialize in:
 #### Programming languages
 
 <p>
-        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  
-<!--         <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=sql&logoColor=white"></a> -->
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AC"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AC%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Amdsifat+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?  logo=javascript&logoColor=black"></a>
 </p>
 
 ### Frameworks and libraries
@@ -84,7 +86,6 @@ I specialize in:
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=MD-SIFAT-AHAMED&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/></td>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=MD-SIFAT-AHAMED&theme=dark&hide_border=false" height="150"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-SIFAT-AHAMED&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/></td>
   </tr>
