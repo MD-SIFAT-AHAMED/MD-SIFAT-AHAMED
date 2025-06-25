@@ -35,7 +35,63 @@ I specialize in:
 - ✅ Authentication & Admin Dashboards
 - ✅ Clean UI with Tailwind and React
 - ✅ MongoDB-based database solutions
-- 
+
+---
+
+
+#### Programming languages
+
+<p>
+        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  
+<!--         <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=sql&logoColor=white"></a> -->
+</p>
+
+### Frameworks and libraries
+
+<p>
+        <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
+        <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+        <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+        <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
+</p>
+
+### Databases 
+
+<p>
+        <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+        <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+</p>
+
+### Cloud hosting
+
+<p>
+        <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"></a>
+        <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+        <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+</p>
+
+## Software and tools
+
+<p>
+        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+        <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+</p>
+
+## 📊 GitHub Stats  
+
+<div style="background-color: #0D1117; padding: 10px; border-radius: 10px;">
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=apucsd&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=apucsd&theme=dark&hide_border=false" height="150"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apucsd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/></td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ### 📫 Connect with Me
