@@ -1,8 +1,6 @@
 <div align="center">
 <img height="10%" width="100%" object="cover" src='https://i.ibb.co/5gRcbdkk/Screenshot-2025-06-25-143641.png' />  
 <div/>
-
-<h1 align="center">Hi,I'm Md Sifat Ahamed👋</h1>
  
 ### 👤 Professional Identity
 
