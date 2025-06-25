@@ -2,7 +2,7 @@
 <img height="100%" src='https://i.ibb.co/5gRcbdkk/Screenshot-2025-06-25-143641.png' />  
 <div/>
 
-<h1 align="center">Hi,I'm Md Sifat Ahamed<👋/h1>
+<h1 align="center">Hi,I'm Md Sifat Ahamed👋</h1>
 <h3 align="center">I am a passionate Web developer with a solid foundation in solving complex problems and a passion for learning and implementing new technologies.</h3>
   
 ### 👤 Professional Identity
@@ -25,7 +25,9 @@
 
 ---
 
-### 🧑‍💻 What I Do
+<div align="left">
+
+  ### 🧑‍💻 What I Do
 
 I specialize in:
 - ✅ Full-Stack Web Development (MERN)
@@ -42,5 +44,7 @@ I specialize in:
 - 💼 **LinkedIn:** [MD SIFAT AHAMED](https://www.linkedin.com/in/md-sifat-ahamed/)  
 - 📧 **Email:**  mdsifat978@gmail.com
 
-
 ---
+</div>
+
+
