@@ -3,8 +3,7 @@
 <div/>
 
 <h1 align="center">Hi,I'm Md Sifat Ahamed👋</h1>
-<h3 align="center">I am a passionate Web developer with a solid foundation in solving complex problems and a passion for learning and implementing new technologies.</h3>
-  
+ 
 ### 👤 Professional Identity
 
 <table align="center">
