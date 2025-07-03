@@ -2,9 +2,9 @@
 <img height="10%" width="100%" object="cover" src='https://i.ibb.co/5gRcbdkk/Screenshot-2025-06-25-143641.png' />  
 <div/>
  
-### 👤 Professional Identity
+### 👤 Professional Identity 
 
-<table align="center">
+<table align="center" >
   <tr>
     <td align="center" width="200">
       <img src="https://i.ibb.co/fGFBfbTP/sifat-ahamed2.jpg" alt="Sifat Ahamed" width="150" style="border-radius: 50%;" />
