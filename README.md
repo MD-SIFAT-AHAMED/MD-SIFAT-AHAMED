@@ -1,5 +1,5 @@
 <div align="center">
-<img height="10% " width="100%" object="cover" src='https://i.ibb.co.com/fzd1fWkc/sifat-Banner.png' />  
+<img height="10% " width="100%" object="cover" src='https://i.ibb.co.com/vCGy7fgj/sifat-Banner.png' />  
 <div/>
  
 ### 👤 Professional Identity 
@@ -7,7 +7,7 @@
 <table align="center" >
   <tr>
     <td align="center" width="200">
-      <img src="https://i.ibb.co.com/fzd1fWkc/sifat-Banner.png" alt="Sifat Ahamed"  style="border-radius: 50%;" />
+      <img src="https://i.ibb.co.com/fGFBfbTP/sifat-ahamed2.jpg" alt="Sifat Ahamed"  style="border-radius: 50%;" />
     </td>
     <td>
       <p>
