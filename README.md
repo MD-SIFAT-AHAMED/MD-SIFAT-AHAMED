@@ -1,5 +1,5 @@
 <div align="center">
-<img height="10% " width="100%" object="cover" src='https://i.ibb.co.com/4wNG5WmH/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png' />  
+<img width="100%" object="cover" src='https://i.ibb.co.com/4wNG5WmH/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png' />  
 <div/>
  
 ### 👤 Professional Identity 
