@@ -49,7 +49,7 @@ I specialize in:
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
 </p>
 
-### Frameworks and libraries
+### 🎨 Frameworks and libraries
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
@@ -58,6 +58,7 @@ I specialize in:
   <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?logo=daisyui&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=mongoose&logoColor=white">
   <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white">
   <img alt="Firebase Auth" src="https://img.shields.io/badge/Firebase_Auth-FFCA28.svg?logo=firebase&logoColor=black">
 </p>
@@ -65,7 +66,6 @@ I specialize in:
 ### 🗄️ Database  
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=mongoose&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
 </p>
 
