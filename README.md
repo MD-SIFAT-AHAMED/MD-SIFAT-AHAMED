@@ -47,17 +47,15 @@ I specialize in:
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
 </p>
-
 #### 🎨 Frontend  
 <p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=white">
   <img alt="DaisyUI" src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?logo=daisyui&logoColor=white">
 </p>
-
 #### 🔧 Backend  
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
@@ -65,14 +63,12 @@ I specialize in:
   <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white">
   <img alt="Firebase Auth" src="https://img.shields.io/badge/Firebase_Auth-FFCA28.svg?logo=firebase&logoColor=black">
 </p>
-
 #### 🗄️ Database  
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=mongoose&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
 </p>
-
 #### ☁️ Deployment & Tools  
 <p>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
@@ -81,7 +77,6 @@ I specialize in:
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
-
 
 
 ## 📊 GitHub Stats  
