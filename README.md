@@ -10,6 +10,7 @@
       <img src="https://i.ibb.co.com/fGFBfbTP/sifat-ahamed2.jpg" alt="Sifat Ahamed"  style="border-radius: 50%;" />
     </td>
     <td>
+     
       <p>
         I’m a dedicated MERN Stack Developer passionate about building modern web applications that are fast, responsive, and scalable. I specialize in writing clean, maintainable               code, crafting seamless user experiences, and building secure, efficient backend systems. With a strong understanding of frontend technologies, I aim to deliver full-stack               solutions that solve real-world problems and add value to businesses. I continuously learn and grow to stay ahead in tech.
       </p>
