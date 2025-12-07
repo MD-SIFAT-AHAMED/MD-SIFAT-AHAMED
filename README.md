@@ -2,21 +2,6 @@
 <img width="100%" object="cover" src="https://i.ibb.co.com/GQD7TjRk/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" />  
 <div/>
  
-### 👤 Professional Identity 
-
-<table align="center" >
-  <tr>
-    <td align="center" width="200">
-      <img src="https://i.ibb.co.com/fGFBfbTP/sifat-ahamed2.jpg" alt="Sifat Ahamed"  style="border-radius: 50%;" />
-    </td>
-    <td>
-     
-      <p>
-        I’m a dedicated MERN Stack Developer passionate about building modern web applications that are fast, responsive, and scalable. I specialize in writing clean, maintainable               code, crafting seamless user experiences, and building secure, efficient backend systems. With a strong understanding of frontend technologies, I aim to deliver full-stack               solutions that solve real-world problems and add value to businesses. I continuously learn and grow to stay ahead in tech.
-      </p>
-    </td>
-  </tr>
-</table>
 
 ### 🎯 Vision & Description
 
@@ -35,6 +20,7 @@ I specialize in:
 - ✅ Authentication & Admin Dashboards
 - ✅ Clean UI with Tailwind and React
 - ✅ MongoDB-based database solutions
+- ✅ mySql-based database solutions
 
 ---
 
@@ -47,7 +33,7 @@ I specialize in:
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+  <!-- <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"> -->
 </p>
 
 ### 🎨 Frameworks and libraries
