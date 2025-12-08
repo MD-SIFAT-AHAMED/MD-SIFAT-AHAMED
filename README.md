@@ -46,7 +46,8 @@ I specialize in:
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
    <!-- <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=mongoose&logoColor=white"> -->
-   <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154.svg?logo=reactquery&logoColor=white">
+  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154.svg?logo=reactquery&logoColor=white">
+  <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-000000.svg?logo=reacthookform&logoColor=EC5990">
   <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white">
   <img alt="Firebase Auth" src="https://img.shields.io/badge/Firebase_Auth-FFCA28.svg?logo=firebase&logoColor=black">
 </p>
