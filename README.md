@@ -20,7 +20,7 @@ I specialize in:
 - ✅ Authentication & Admin Dashboards
 - ✅ Clean UI with Tailwind and React
 - ✅ MongoDB-based database solutions
-- ✅ mySql-based database solutions
+- ✅ MySql-based database solutions
 
 ---
 
