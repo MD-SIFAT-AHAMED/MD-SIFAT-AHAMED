@@ -1,5 +1,5 @@
-<div align="center">
-  <img width="100%" style="object-fit: cover; border-radius: 10px;" src="https://i.ibb.co.com/1fMHsrbB/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="MD SIFAT AHAMED Banner" />
+<!-- <div align="center">
+  <img width="100%" style="object-fit: cover; border-radius: 10px;" src="https://i.ibb.co.com/1fMHsrbB/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="MD SIFAT AHAMED Banner" /> -->
 
 # Hi there, I'm MD Sifat Ahamed 👋
 
