@@ -35,28 +35,6 @@ I enjoy solving real-world problems, optimizing application performance, designi
 
 ---
 
-## 🎓 Education
-
-### Bachelor of Science (BSc) in Computer Science & Engineering
-**Uttara University**
-**2025 — Present**
-
-**Status:** Pursuing
-
-### Diploma in Engineering (Computer Technology)
-**Narsingdi Polytechnic Institute**
-**2024**
-
-**CGPA:** 3.46 / 4.00
-
-### Secondary School Certificate (SSC)
-**Baligoan High School**
-**2020**
-
-**Group:** Science
-
----
-
 # 💻 Tech Stack
 
 ## 🚀 Languages
