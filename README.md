@@ -13,11 +13,11 @@
 ### 🧑‍💻 What I Do
 
 I specialize in:
-- ✅ **Full-Stack Web Development** (MERN Stack)
-- ✅ **Robust Backend APIs** & Database Systems
-- ✅ **Relational & Non-Relational Management** (MySQL & MongoDB)
-- ✅ **Fluid UIs & Animations** (React, Tailwind CSS, DaisyUI, Framer Motion)
-- ✅ **Secure Authentication Flow Systems** (JWT & Firebase Auth)
+- ✅ **Full-Stack Web Development** (MERN Stack & Java Enterprise Environments)
+- ✅ **Scalable Backend Services** (Building microservices and secure, high-performance REST APIs)
+- ✅ **Relational & Non-Relational Database Architecture** (Advanced query design with MySQL & MongoDB)
+- ✅ **Dynamic Interactive Frontends** (Designing fluid client interfaces using React, Tailwind CSS, and Framer Motion)
+- ✅ **Enterprise Security & Data Protection** (Implementing stateless JWT handling and multi-factor authentication)
 
 ---
 
@@ -26,6 +26,7 @@ I specialize in:
 #### 🚀 Programming Languages  
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
 </p>
@@ -33,6 +34,7 @@ I specialize in:
 #### 🎨 Frameworks and Libraries
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=spring-boot&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=white">
